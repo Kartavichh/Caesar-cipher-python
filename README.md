@@ -72,7 +72,7 @@ git clone https://github.com/Kartavichh/Caesar-cipher-python.git
 2. Перейти в папку проекта:
 
 ```bash
-cd <имя_папки>
+cd Caesar-cipher-python
 ```
 
 3. Запустить скрипт:
